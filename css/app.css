@@ -1,0 +1,123 @@
+body {
+background-color: lightgreen;
+}
+
+ul {
+    background-color: #333;
+}
+
+a {
+    color: lightgreen;
+    
+}
+
+a:hover {
+	color: green;
+}
+
+.dropdown.menu > li.is-dropdown-submenu-parent > a::after {
+	    border-color: #17ba2b transparent transparent;
+} 
+
+.top-bar {
+	color: black;
+}
+
+a.Lif {
+	font-family: 'Rubik', sans-serif;
+}
+
+.menu .menu-text a,.menu .menu-text {
+	font-size: 30px;
+	color: lightgreen;
+	font-family: Nova SOLID Regular; 
+	padding: 0px;
+	src: url('/font/Nova SOLID Regular.tff');
+}
+.Welcome,.SubWelcome {
+	text-align: center;
+	padding-top: 100px;
+	color: white;
+}
+
+.sticky-topbar {
+	width: 100%;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.Portfolio {
+	text-align: center;
+}
+
+.PortT1 {
+font-size: 50px; 
+font-family: "Bauhaus 93 Regular";
+}
+
+.PortT2 {
+	font-family: "Bauhaus 93 Regular";
+	font-size: 25px;
+}
+
+.PortA1 {
+	color: black;
+}
+
+.Tutorials{
+	text-align: center;
+}
+
+.TutT1 {
+	font-size: 50px;
+	font-family: "Bauhaus 93 Regular"
+}
+
+.TutT2 {
+	font-family: "Bauhaus 93 Regular";
+	font-size: 25px;
+}
+
+.Store {
+	text-align: center;
+}
+
+.ST1 {
+	font-size: 50px;
+	font-family: "Bauhaus 93 Regular"	
+}
+
+.ST2 {
+	font-family: "Bauhaus 93 Regular";
+	font-size: 25px;
+}
+
+.center {
+	text-align: center;
+	margin: auto;
+}
+
+.left {
+	text-align: left;
+	margin: auto;
+	float: left;
+}
+
+.right {
+	text-align: right;
+	margin: auto;
+	float: right;
+}
+
+ul.List {
+	background-color: transparent;
+
+}
+
+li.list1 {
+	padding-right: 20px;
+}
