@@ -34,11 +34,22 @@ a.Lif {
 	padding: 0px;
 	src: url('/font/Nova SOLID Regular.tff');
 }
-.Welcome,.SubWelcome {
-	text-align: center;
-	padding-top: 100px;
-	color: white;
+h1.toppage {
+color: white;
+font-family: Nova SOLID Regular; 
+	padding: 0px;
+	src: url('/font/Nova SOLID Regular.tff');
+font-size: 200px;
 }
+
+p.toppage {
+color: white;
+font-family: Nova SOLID Regular; 
+	padding: 0px;
+	src: url('/font/Nova SOLID Regular.tff');
+font-size: 30px;
+}
+
 
 .sticky-topbar {
 	width: 100%;
